@@ -30,4 +30,6 @@ Responsible for ensuring that the key points of the discussion are noted. They m
 The Notetaker also ensures that a copy of the notes is uploaded to the carpentries-incubator/study-groups GitHub repository before the start of the next session.
 
 
+
+
 {% include links.md %}
