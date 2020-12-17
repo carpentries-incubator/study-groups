@@ -16,7 +16,22 @@ keypoints:
 - "The Notetaker is responsible for recording the key points of the discussion and uploading these to GitHub after the session."
 ---
 
+## Session Format
+
+Study Groups will meet each week* for an hour-long discussion of the lesson development process.
+Each session will have associated reading and homework tasks, which every participant is expected to complete.
+We estimate that these tasks will take an additional 2-3 hours, making **a total of ~3-4 hours of work each week for Study Group participants**.
+
+Reading and homework tasks are described on the individual session pages listed under the _Episodes_ menu above.
+
+\*there will be a two-week interval between sessions 7 and 8, to allow time for participants to complete a trial run 
+teaching one of the episodes from their lesson.
+
+
 ## Roles
+
+Every weekly discussion session will have a Discussion Lead and a Notetaker. 
+These roles will rotate between group participants.
 
 ### Discussion Lead (role rotates weekly)
 The Facilitator is responsible for leading the group through a discussion
@@ -29,7 +44,9 @@ They also take notes when the Notetaker is speaking.
 Responsible for ensuring that the key points of the discussion are noted. They may do this all themselves or call for help from others e.g. the Group Facilitator. It is important that the Notetaker is also able to contribute to the discussion, so the Discussion Lead should cover notes when the Notetaker is speaking.
 The Notetaker also ensures that a copy of the notes is uploaded to the carpentries-incubator/study-groups GitHub repository before the start of the next session.
 
-
+At least one **Group Facilitator**, 
+a person with experience of the lesson development process and infrastructure, 
+will also be present at each discussion.
 
 
 {% include links.md %}
