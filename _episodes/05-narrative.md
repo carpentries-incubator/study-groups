@@ -1,7 +1,7 @@
 ---
 title: "Data Sets and Authentic Tasks"
 teaching: 60
-exercises: 120
+exercises: 0
 start: true
 questions:
 - "What kind of data set is appropriate to use in a lesson?"
