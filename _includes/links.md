@@ -13,9 +13,11 @@
 [cdh-8]: https://cdh.carpentries.org/technological-introductions.html
 [cdh-a1]: https://cdh.carpentries.org/the-carpentries-incubator.html
 [cdh-a1-a2]: https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags
+[cdh-a1-a3]: https://cdh.carpentries.org/the-carpentries-incubator.html#using-github-issue-labels
 [ci]: http://communityin.org/
 [coc-reporting]: https://docs.carpentries.org/topic_folders/policies/incident-reporting.html
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[community-lessons]: https://carpentries.org/community-lessons/
 [concept-maps]: https://carpentries.github.io/instructor-training/05-memory/
 [contrib-covenant]: https://contributor-covenant.org/
 [contributing]: {{ repo_url }}/blob/{{ source_branch }}/CONTRIBUTING.md
