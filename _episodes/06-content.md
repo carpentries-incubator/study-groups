@@ -18,17 +18,62 @@ keypoints:
 
 > ## Reading List
 >
-> Coming soon.
+> - [Teaching Tech Together: Exercise Types][ttt-exercises].
+> - [CDH Chapter 5: Developing Content][cdh-5].
+> - [Instructor Training: Expertise and Instruction][training-expertise].
+> - The _Episode Review_ callout below.
 {: .checklist }
 
 > ## Discussion Prompts
 >
-> Coming soon.
-{: .discussion }
+> - What questions do you have about writing your lesson?
+> - What are some of the advantages of writing exercises before the examples and
+>   explanations learners will need to be able to solve them?
+> - What are some of the benefits of writing example code blocks before
+>   the "connective tissue" text between them?
+> - What are some common mistakes and misconceptions you encounter from learners
+>   of the topic covered by your lesson?
+>   - How will you diagnose and address these in your lesson?
+> - How do you plan to account for your expertise while you write your lesson?
+{: .objectives }
 
 > ## Homework Tasks
 >
-> Coming soon.
+> - Complete (at least) the episode you plan to teach in your trial run,
+>   and request review when it is ready.
+> - (If you have time this week) Complete a review of the episode you were assigned.
+>   See the callout below for more details about how you should approach the review.
+> - In preparation for your trial run of an episode,
+>   read [the two Carpentries Instructor Training bonus modules][training-bonus]
+>   on online training:
+>   - [Know Your Tools][training-bonus-tools]
+>   - [Making The Dream Work][training-bonus-teamwork]
 {: .challenge}
+
+> ## Episode Review
+>
+> One of your homework tasks is to review an episode being developed
+> by another Study Group participant.
+> When completing this review,
+> your goal is to provide constructive feedback to the author(s) about
+> the design, structure, and content of the episode.
+> You should consider everything you have learned
+> about lesson development up to this point:
+>
+> - Are the objectives of the lesson specific and focused on the skills being taught?
+> - Do the exercises assess the skills described in the learning objectives?
+>   Have they been designed with diagnostic power i.e. could an incorrect answer
+>   provide the instructor with information about the learner's misconceptions?
+> - Do the examples and tasks used in the episode feel authentic?
+>   Do you think learners will be motivated to gain the skills being taught?
+> - Is the length of the episode appropriate?
+> - Do you think the episode is designed to manage cognitive load effectively?
+>
+> We estimate it will take ~30-60 minutes to review the episode.
+>
+> Submit your review as an issue or multiple issues on the lesson repository,
+> and add a link or links to the review to the Study Groups shared
+> notetaking document when you are done.
+{: .callout}
 
 {% include links.md %}

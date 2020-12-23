@@ -19,17 +19,29 @@ keypoints:
 
 > ## Reading List
 >
-> Coming soon.
+> - [CDH Chapter 6: Community Development Roles][cdh-6].
+> - [CDH Chapter 7: Lesson Life Cycle][cdh-7].
 {: .checklist }
 
 > ## Discussion Prompts
 >
-> Coming soon.
-{: .discussion }
+> - What are some of the potential benefits of developing and maintaining a lesson
+>   in an open repository?
+> - What are some of the potential challenges?
+> - What features of GitHub can be used to promote and support collaborative lesson development?
+> - What resources are available in The Carpentries and elsewhere
+>   to support and guide collaborative development?
+> - What resource do you wish existed? Or wish you could find?
+> - What questions do you have about the lesson life cycle described in the CDH?
+> - What was the most valuable thing you learned during the Study Groups program?
+> - What was missing from the Study Groups program?
+{: .objectives }
 
 > ## Homework Tasks
 >
-> Coming soon.
+> - Complete the Lesson Development Study Groups feeback survey.
+> - (Optionally) write a post for The Carpentries blog,
+>   reflecting on your experience in this Study Groups program.
 {: .challenge}
 
 {% include links.md %}
