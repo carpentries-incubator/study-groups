@@ -70,7 +70,7 @@ will also be present at each discussion.
 > ## Homework Task
 >
 > - Make sure you have proposed your lesson to The Carpentries Incubator
->   by opening an issue on [the Proposals repository][incubator-proposals].
+>   by opening an issue on [the Proposals repository][incubator-proposals-submission].
 >   - Answer the questions in the issue template to submit your proposal.
 >
 {: .challenge}

@@ -30,7 +30,8 @@
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [importer]: https://github.com/new/import
 [incubator]: https://github.com/carpentries-incubator/
-[incubator-proposals]: https://github.com/carpentries-incubator/proposals/issues
+[incubator-proposals]: https://github.com/carpentries-incubator/proposals/
+[incubator-proposals-submission]: https://github.com/carpentries-incubator/proposals#what-is-the-process-for-submitting-a-lesson-or-a-lesson-idea-to-the-carpentries-incubator
 [incubator-template-readme]: https://github.com/carpentries-incubator/template/blob/gh-pages/README.md
 [jekyll-collection]: https://jekyllrb.com/docs/collections/
 [jekyll-install]: https://jekyllrb.com/docs/installation/
