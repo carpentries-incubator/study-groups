@@ -29,6 +29,10 @@ keypoints:
 > - Did characterising its target audience change how you plan to
 >   approach writing your lesson?
 > - How many different learner profiles do you think you could write for your lesson?
+> - What are some of the challenges of writing a lesson aimed at novices?
+> - What are some of the challenges of writing a lesson aimed at people with
+>   some prior knowledge of the topic domain
+>   e.g. an intermediate programming lesson?
 {: .objectives }
 
 > ## Homework Tasks
