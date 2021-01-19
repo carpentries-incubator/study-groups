@@ -20,7 +20,7 @@ keypoints:
 
 > ## Reading List
 >
-> - The [Introduction page of this site](00-introduction).
+> - The [Introduction page of this site](../00-introduction/).
 > - [CDH Chapter 1: Guiding Principles][cdh-1].
 > - [CDH Chapter 2: Our Curriculum Structure][cdh-2].
 > - [Greg Wilson's Ten Rules][ttt-10-rules] from Teaching Tech Together.
