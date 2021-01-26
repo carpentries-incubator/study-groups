@@ -32,8 +32,9 @@ Two resources central to the program are:
   teaching, and community building.
 
 Other resources will be linked throughout the site,
-and [the Further Reading page](further_reading) lists some recommended resources
+and [the Further Reading page](../further_reading/) lists some recommended resources
 for those who wish to explore beyond the program's required reading.
+
 ## Session Format
 
 Study Groups will meet each week* for an hour-long discussion of the lesson development process.
