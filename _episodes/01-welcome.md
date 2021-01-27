@@ -53,7 +53,7 @@ giving all participants an opportunity to tell the others attending:
 > ## Homework Tasks
 >
 > - Work with the [Curriculum Community Developer][ccd] to ensure
->   your lesson repository is created in The Carpentries Incubator.
+>   your lesson repository is created in [The Carpentries Incubator][incubator].
 > - Read [Chapter 3: Deciding what to teach][cdh-3] of
 >   the Curriculum Development Handbook.
 > - Make a copy of the [Lesson Design Notes Template][ldn-template-codimd]

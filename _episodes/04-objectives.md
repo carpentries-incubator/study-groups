@@ -71,7 +71,7 @@ keypoints:
 > - take place online or in-person.
 > - be a private session attended by invitation only, or open to external participants.
 > - be delivered to members of your own network, community, or institution.
-> - be delivered to the other Study Group participants, developers of lessons in The Carpentries Incubator, or The Carpentries community as a whole.
+> - be delivered to the other Study Group participants, developers of lessons in [The Carpentries Incubator][incubator], or The Carpentries community as a whole.
 >
 > However you choose to do it, please make sure you schedule this session as soon a possible.
 >

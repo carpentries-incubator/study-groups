@@ -68,7 +68,7 @@ facilitate the discussions, answer any questions and help group participants wit
 
 > ## Homework Task
 >
-> - Make sure you have proposed your lesson to The Carpentries Incubator
+> - Make sure you have proposed your lesson to [The Carpentries Incubator][incubator]
 >   by opening an issue on [the Proposals repository][incubator-proposals-submission].
 >   - Answer the questions in the issue template to submit your proposal.
 >
