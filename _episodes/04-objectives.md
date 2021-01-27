@@ -86,8 +86,8 @@ keypoints:
 >
 > The [Curriculum Community Developer][ccd] can provide support for these sessions.
 > For example, by providing access to an account with a paid Zoom license for the trial run,
-> by helping advertise the session to Carpentries (sub)communities,
-> by listing sessions on the Carpentries Community Calendar, etc.
+> by helping advertise the session to The Carpentries (sub)communities,
+> by listing sessions on The Carpentries Community Calendar, etc.
 {: .callout}
 
 {% include links.md %}

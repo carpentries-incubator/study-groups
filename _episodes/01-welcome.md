@@ -38,8 +38,8 @@ giving all participants an opportunity to tell the others attending:
 > - What are some of the advantages of developing an open source lesson?
 > - What are some of the disadvantages?
 > - Which of the seven principles of learning,
->   defined by Ambrose et al and summarised in CDH Chapter 1,
->   are particularly relevant to Carpentries lesson design and development?
+>   defined by Ambrose et al. and summarised in CDH Chapter 1,
+>   are particularly relevant to The Carpentries lesson design and development?
 > - Are there any that you think are less relevant?
 > - CDH Chapter 1 also summarises the key steps in designing a lesson:
 >   identifying the practical skills you want to teach;
