@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Describe the format of a study group session."
 - "Find notes from previous sessions."
-- "Summarize the responsibilities of the Discussion Lead and Notetaker for each session."
+- "Summarise the responsibilities of the Discussion Lead and Notetaker for each session."
 keypoints:
 - "Discussions focus on how the concepts and resources introduced each week can be applied to the design and development of lessons."
 - "The roles of Discussion Lead and Notetaker rotate between group participants each week."
@@ -49,7 +49,7 @@ teaching one of the episodes from their lesson.
 ## Roles
 
 Every weekly discussion session will have a Discussion Lead, a Notetaker and one or more Group Facilitators.
-The roles of the Discussion Lead and the Notetaker will rotate weekly between group participants. 
+The roles of the Discussion Lead and the Notetaker will rotate weekly between group participants.
 
 ### Discussion Lead (role rotates weekly)
 The Facilitator is responsible for leading the group through a discussion
@@ -63,8 +63,8 @@ Notetaker is responsible for ensuring that the key points of the discussion are 
 The Notetaker also ensures that a copy of the notes is uploaded to the carpentries-incubator/study-groups GitHub repository before the start of the next session. The role rotates weekly.
 
 ### Group Facilitator
-Group Facilitator is a person with experience of the lesson development process and infrastructure. One or more Group Facilitators will be present each week to 
-facilitate the discussions, answer any questions and help group participants with the lesson development process. 
+Group Facilitator is a person with experience of the lesson development process and infrastructure. One or more Group Facilitators will be present each week to
+facilitate the discussions, answer any questions and help group participants with the lesson development process.
 
 > ## Homework Task
 >

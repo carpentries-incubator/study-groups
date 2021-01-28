@@ -52,7 +52,7 @@ keypoints:
 > - Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
 > - Identify at least one appropriate example data set/narrative for your lesson,
 >   and add a link to the data set in the shared notes document.
-> - In the Data Set section of your Lesson Design Notes, briefly summarize:
+> - In the Data Set section of your Lesson Design Notes, briefly summarise:
 >   - why you chose these datasets/examples,
 >   - what advantages they have as a tool for learning,
 >   - and what disadvantages/difficulties/complexities they would introduce.
