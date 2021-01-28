@@ -94,7 +94,7 @@ One or more Group Facilitators will be present each week to
 facilitate the discussions, answer any questions,
 and help group participants with the lesson development process.
 
-> ## Homework Task
+> ## Homework Tasks
 >
 > - Make sure you have proposed your lesson to [The Carpentries Incubator][incubator]
 >   by opening an issue on [the Proposals repository][incubator-proposals-submission].
