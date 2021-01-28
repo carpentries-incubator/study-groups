@@ -61,6 +61,7 @@
 [ruby-install-guide]: https://www.ruby-lang.org/en/downloads/
 [ruby-installer]: https://rubyinstaller.org/
 [rubygems]: https://rubygems.org/pages/download/
+[study-groups-repo]: https://github.com/carpentries-incubator/study-groups
 [styles]: https://github.com/carpentries/styles/
 [swc-lessons]: https://software-carpentry.org/lessons/
 [swc-releases]: https://github.com/swcarpentry/swc-releases

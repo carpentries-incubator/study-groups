@@ -51,26 +51,50 @@ teaching one of the episodes from their lesson.
 Every weekly discussion session will have a Discussion Lead, a Notetaker and one or more Group Facilitators.
 The roles of the Discussion Lead and the Notetaker will rotate weekly between group participants.
 
-### Discussion Lead (role rotates weekly)
-The Facilitator is responsible for leading the group through a discussion
+### Discussion Lead
+The Discussion Lead is responsible for leading the group through a discussion
 of the reading material for this session.
-They should ensure every group member has an equal opportunity to contribute
-to the discussion, and that the discussion is completed in a timely manner.
+They should set the agenda for the discussion
+and ensure every group member has an equal opportunity to contribute.
 They also take notes when the Notetaker is speaking. The role rotates weekly.
 
+When setting the agenda,
+the Discussion Lead might choose to include one or more of
+the suggested Discussion Prompts from the episode page for that week,
+but they are also free to design their own agenda and
+set their own prompts for the discussion.
+
+Discussion Leads may choose to assign timings (5 mins, 10 mins, etc)
+to points on the agenda to ensure the discussion keeps moving,
+or they may prefer to let the conversation flow more freely.
+
 ### Notetaker
-Notetaker is responsible for ensuring that the key points of the discussion are noted. They may do this all themselves or call for help from others e.g. the Group Facilitator. It is important that the Notetaker is also able to contribute to the discussion, so the Discussion Lead should cover notes when the Notetaker is speaking.
-The Notetaker also ensures that a copy of the notes is uploaded to the carpentries-incubator/study-groups GitHub repository before the start of the next session. The role rotates weekly.
+
+The Notetaker is responsible for ensuring that the key points of the discussion are noted.
+They may do this all themselves or call for help from others e.g. the Group Facilitator.
+It is important that the Notetaker is also able to contribute to the discussion,
+so the Discussion Lead should cover notes when the Notetaker is speaking.
+The Notetaker is also responsible for adding a copy of the notes
+to [the carpentries-incubator/study-groups GitHub repository][study-groups-repo]
+before the start of the next session. The role rotates weekly.
 
 ### Group Facilitator
-Group Facilitator is a person with experience of the lesson development process and infrastructure. One or more Group Facilitators will be present each week to
-facilitate the discussions, answer any questions and help group participants with the lesson development process.
+
+The Group Facilitator is a person with experience of
+the lesson development process and The Carpentries lesson infrastructure.
+One or more Group Facilitators will be present each week to
+facilitate the discussions, answer any questions,
+and help group participants with the lesson development process.
 
 > ## Homework Task
 >
 > - Make sure you have proposed your lesson to [The Carpentries Incubator][incubator]
 >   by opening an issue on [the Proposals repository][incubator-proposals-submission].
 >   - Answer the questions in the issue template to submit your proposal.
+> - Read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which applies to all interactions throughout the duration of the Study Groups program.
+> - Read [CDH Chapter 1: Guiding Principles][cdh-1]
+>   and [CDH Chapter 2: Our Curriculum Structure][cdh-2].
+> - Read [Greg Wilson's Ten Rules][ttt-10-rules] from Teaching Tech Together.
 >
 {: .challenge}
 
