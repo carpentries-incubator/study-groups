@@ -51,7 +51,7 @@ teaching one of the episodes from their lesson.
 Every weekly discussion session will have a Discussion Lead, a Notetaker and one or more Group Facilitators.
 The roles of the Discussion Lead and the Notetaker will rotate weekly between group participants. 
 
-### Discussion Lead (role rotates weekly)
+### Discussion Lead
 The Facilitator is responsible for leading the group through a discussion
 of the reading material for this session.
 They should ensure every group member has an equal opportunity to contribute
