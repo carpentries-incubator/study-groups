@@ -37,9 +37,9 @@ for those who wish to explore beyond the program's required reading.
 
 ## Weekly Routine
 
-Each week of the program\* includes a set of reading tasks,
-a one-hour group discussion session to reflect on that reading material,
-and a set of homework tasks designed to help participants
+Each week of the program\* includes a set of **reading tasks**,
+a one-hour **group discussion session** to reflect on that reading material,
+and a set of **homework tasks** designed to help participants
 apply the concepts they have read about to the design and development of their lesson.
 
 Participants should try to complete the reading and homework tasks
@@ -55,13 +55,14 @@ teaching one of the episodes from their lesson.
 
 ## Roles
 
-Every weekly discussion session will have a Discussion Lead, a Notetaker and one or more Group Facilitators.
+Every weekly discussion session will have a **Discussion Lead**, a **Notetaker** and one or more **Group Facilitators**.
 The roles of the Discussion Lead and the Notetaker will rotate weekly between group participants.
 
 ### Discussion Lead
+
 The Discussion Lead is responsible for leading the group through a discussion
 of the reading material for this session.
-They should set the agenda for the discussion
+They set the agenda for the discussion
 and ensure every group member has an equal opportunity to contribute.
 They also take notes when the Notetaker is speaking. The role rotates weekly.
 
