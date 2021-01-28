@@ -46,7 +46,7 @@ keypoints:
 >   you will be able to add more and remove topics whenever you like.)
 > - Note down any questions you have about the lesson template and,
 >   if you got stuck, how far you had progressed with the setup beforehand.
-> - Add a link to your lesson repository to the Study Groups shared notes document.
+> - Add a link to your lesson repository to the Study Group's shared notes document.
 {: .challenge}
 
 {% include links.md %}
