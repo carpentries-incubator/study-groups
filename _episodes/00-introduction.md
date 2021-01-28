@@ -35,13 +35,20 @@ Other resources will be linked throughout the site,
 and [the Further Reading page](../further_reading/) lists some recommended resources
 for those who wish to explore beyond the program's required reading.
 
-## Session Format
+## Weekly Routine
 
-Study Groups will meet each week* for an hour-long discussion of the lesson development process.
-Each session will have associated reading and homework tasks, which every participant is expected to complete.
-We estimate that these tasks will take an additional 2-3 hours, making **a total of ~3-4 hours of work each week for Study Group participants**.
+Each week of the program\* includes a set of reading tasks,
+a one-hour group discussion session to reflect on that reading material,
+and a set of homework tasks designed to help participants
+apply the concepts they have read about to the design and development of their lesson.
 
-Reading and homework tasks are described on the individual session pages listed under the _Episodes_ menu above.
+Participants should try to complete the reading and homework tasks
+before the weekly discussion with your group.
+We know that you will have many demands on your time and
+sometimes it may be difficult to finish everything.
+Where you think this may be the case,
+please prioritise the reading over other homework tasks,
+so you can follow and contribute to the group discussion.
 
 \*there will be a two-week interval between sessions 7 and 8, to allow time for participants to complete a trial run
 teaching one of the episodes from their lesson.
