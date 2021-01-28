@@ -19,8 +19,8 @@ The overall goal of the program is that every lesson will have a realistic and c
 > ## Objectives
 > By the end of the Study Group program, participants will be able to:
 >
-> * collaboratively **develop** and **publish** lessons using Carpentries infrastructure: lesson template, GitHub, GitHub Pages, etc.
-> * **identify** and characterize the target audience for a lesson
+> * collaboratively **develop** and **publish** lessons using The Carpentries lesson infrastructure: lesson template, GitHub, GitHub Pages, etc.
+> * **identify** and characterise the target audience for a lesson
 > * **define** specific, assessable learning objectives
 > * **explain** the pedagogical value of authentic tasks
 > * **create** exercises for formative assessment in an appropriate format

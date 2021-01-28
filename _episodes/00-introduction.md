@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Describe the format of a study group session."
 - "Find notes from previous sessions."
-- "Summarize the responsibilities of the Discussion Lead and Notetaker for each session."
+- "Summarise the responsibilities of the Discussion Lead and Notetaker for each session."
 keypoints:
 - "Discussions focus on how the concepts and resources introduced each week can be applied to the design and development of lessons."
 - "The roles of Discussion Lead and Notetaker rotate between group participants each week."
