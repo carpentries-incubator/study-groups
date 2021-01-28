@@ -20,6 +20,7 @@ keypoints:
 
 > ## Reading List
 >
+> - [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 > - The [Introduction page of this site](../00-introduction/).
 > - [CDH Chapter 1: Guiding Principles][cdh-1].
 > - [CDH Chapter 2: Our Curriculum Structure][cdh-2].
