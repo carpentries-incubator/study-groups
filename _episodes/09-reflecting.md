@@ -40,8 +40,7 @@ keypoints:
 >   to teaching the new lesson for the first time
 >   - what are some benefits of the backwards design approach to lesson development?
 >   - what are some of the disadvantages?
-> - What do you wish you had known - or that you had been told -
-> - when you began developing this lesson?
+> - What do you wish you had known - or that you had been told - when you began developing this lesson?
 {: .objectives }
 
 > ## Homework Tasks

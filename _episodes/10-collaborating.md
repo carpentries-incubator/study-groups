@@ -10,7 +10,7 @@ questions:
 objectives:
 - "Identify three ways to encourage contributions to their lesson."
 - "List three resources that could benefit the ongoing development and maintenance of their lesson."
-- "Review other lessons under development in The Carpentries Incubator."
+- "Review other lessons under development in [The Carpentries Incubator][incubator]."
 - "Describe the life cycle of a lesson."
 - "Identify at least one thing they would like to learn more about."
 keypoints:

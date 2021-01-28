@@ -49,7 +49,7 @@ keypoints:
 >   This trial run should take place between sessions 7 and 8
 >   (26 March 2021 - 9 April 2021).
 >   See the Episode Trial Run callout below for more details.
-> - Read [Chapter 4: Designing Challenges][cdh-4] of the Curriculum Development Handbook.
+> - Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
 > - Identify at least one appropriate example data set/narrative for your lesson,
 >   and add a link to the data set in the shared notes document.
 > - In the Data Set section of your Lesson Design Notes, briefly summarize:
@@ -71,7 +71,7 @@ keypoints:
 > - take place online or in-person.
 > - be a private session attended by invitation only, or open to external participants.
 > - be delivered to members of your own network, community, or institution.
-> - be delivered to the other Study Group participants, developers of lessons in The Carpentries Incubator, or The Carpentries community as a whole.
+> - be delivered to the other Study Group participants, developers of lessons in [The Carpentries Incubator][incubator], or The Carpentries community as a whole.
 >
 > However you choose to do it, please make sure you schedule this session as soon a possible.
 >
@@ -86,8 +86,8 @@ keypoints:
 >
 > The [Curriculum Community Developer][ccd] can provide support for these sessions.
 > For example, by providing access to an account with a paid Zoom license for the trial run,
-> by helping advertise the session to Carpentries (sub)communities,
-> by listing sessions on the Carpentries Community Calendar, etc.
+> by helping advertise the session to The Carpentries (sub)communities,
+> by listing sessions on The Carpentries Community Calendar, etc.
 {: .callout}
 
 {% include links.md %}
