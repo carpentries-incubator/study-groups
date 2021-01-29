@@ -62,7 +62,7 @@ The roles of the Discussion Lead and the Notetaker will rotate weekly between gr
 
 The Discussion Lead is responsible for leading the group through a discussion
 of the reading material for this session.
-They set the agenda for the discussion
+They set the agenda for the discussion in the shared notes document
 and ensure every group member has an equal opportunity to contribute.
 They also take notes when the Notetaker is speaking. The role rotates weekly.
 
