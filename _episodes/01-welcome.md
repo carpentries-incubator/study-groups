@@ -61,7 +61,7 @@ giving all participants an opportunity to tell the others attending:
 >   in your preferred format.
 >   You can use this page to record important decisions made about the design of
 >   your lesson during and after the Study Groups Program.
-> - Add a link to your Lesson Design Notes to the Study Groups
+> - Add a link to your Lesson Design Notes to the Study Group's
 >   shared notes document.
 > - Write at least one learner profile for your lesson
 >   and add it to your Lesson Design Notes,
