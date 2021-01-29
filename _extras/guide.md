@@ -1,6 +1,7 @@
 ---
-title: "Instructor Notes"
+title: "Group Facilitator Notes"
 ---
-FIXME
+
+Facilitator Notes coming soon...
 
 {% include links.md %}
