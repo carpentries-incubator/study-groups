@@ -37,6 +37,7 @@
 [jekyll-install]: https://jekyllrb.com/docs/installation/
 [jekyll-windows]: http://jekyll-windows.juthilo.com/
 [jekyll]: https://jekyllrb.com/
+[jekyll-pages-markdown]: https://carpentries-incubator.github.io/jekyll-pages-novice/more_markdown/index.html
 [jupyter]: https://jupyter.org/
 [kramdown]: https://kramdown.gettalong.org/
 [lc-lessons]: https://librarycarpentry.org/lessons/
@@ -71,6 +72,10 @@
 [training-bonus]: https://carpentries-incubator.github.io/instructor-training-bonus-modules/
 [training-bonus-tools]: https://carpentries-incubator.github.io/instructor-training-bonus-modules/01-online-workshops-module-1/index.html
 [training-bonus-teamwork]: https://carpentries-incubator.github.io/instructor-training-bonus-modules/02-online-workshops-module-2/index.html
+[training-practice]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html
+[training-memory]: https://carpentries.github.io/instructor-training/05-memory/index.html
+[training-motivation]: https://carpentries.github.io/instructor-training/08-motivation/index.html
+[training-study]: https://carpentries.github.io/instructor-training/15-lesson-study/index.html
 [ttt]: http://teachtogether.tech/
 [ttt-10-rules]: http://teachtogether.tech/en/index.html#the-rules
 [ttt-exercises]: http://teachtogether.tech/en/index.html#s:exercises

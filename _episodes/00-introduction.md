@@ -16,24 +16,46 @@ keypoints:
 - "The Notetaker is responsible for recording the key points of the discussion and uploading these to GitHub after the session."
 ---
 
-## Main Texts
+> ## Prerequisites
+>
+> The program content assumes that participants are already familiar with
+> **Markdown**, and the good teaching practices introduced in
+> [The Carpentries Instructor Training][training].
+>
+> If you are not yet familiar with Markdown, please work through
+> [this introduction to the language][jekyll-pages-markdown]
+> before you begin following the program.
+> If you have not attended an Instructor Training workshop,
+> or if you feel you would like to refresh your memory of
+> the key concepts relevant to lesson development,
+> please read the following sections before following the program:
+>
+> - [Building Skill with Practice][training-practice]
+> - [Memory and Cognitive Load][training-memory]
+> - [Motivation and Demotivation][training-motivation]
+> - [Preparing to Teach][training-study]
+{: .prereq }
 
-During the program, Study Groups will read and discuss a range of resources
-relevant to the development of Carpentries lessons.
-Two resources central to the program are:
-
-- [The Carpentries Curriculum Development Handbook][cdh]
-  - Often abbreviated to CDH, the Curriculum Development Handbook provides
-  a practical overview of the important steps in lesson development,
-  focusing on how those steps relate to the processes and infrastructure
-  of The Carpentries.
-- [Teaching Tech Together][ttt] by Greg Wilson
-  - A more comprehensive review of good practices in lesson development,
-  teaching, and community building.
-
-Other resources will be linked throughout the site,
-and [the Further Reading page](../further_reading/) lists some recommended resources
-for those who wish to explore beyond the program's required reading.
+> ## Main Texts
+>
+> During the program, Study Groups will read and discuss a range of resources
+> relevant to the development of Carpentries lessons.
+> Two resources central to the program are:
+>
+> - [The Carpentries Curriculum Development Handbook][cdh]
+>   - Often abbreviated to CDH, the Curriculum Development Handbook provides
+>   a practical overview of the important steps in lesson development,
+>   focusing on how those steps relate to the processes and infrastructure
+>   of The Carpentries.
+> - [Teaching Tech Together][ttt] by Greg Wilson
+>   - A more comprehensive review of good practices in lesson development,
+>   teaching, and community building.
+>
+> Other resources will be linked throughout the site,
+> and [the Further Reading page](../further_reading/) lists some recommended resources
+> for those who wish to explore beyond the program's required reading.
+>
+{: .testimonial }
 
 ## Weekly Routine
 
