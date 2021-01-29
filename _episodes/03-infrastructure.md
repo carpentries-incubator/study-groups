@@ -42,6 +42,15 @@ keypoints:
 > - Read the [Concept Maps][ttt-maps] and [Seven Plus or Minus Two][ttt-load] sections of Teaching Tech Together.
 > - In your Lesson Design Notes, write 2-5 learning objectives for your lesson.
 > - Create at least one episode file in your lesson repository and add 2-4 learning objectives in the `objectives` field for that episode.
+> - [Set up your computer to build lesson pages locally](https://carpentries.github.io/lesson-example/setup.html#setup-for-local-rendering-of-the-lessons-optional).
+>   - Note: setting up a local installation of Jekyll is often not straightforward,
+>   but is important to ensure you can make good progress with
+>   the development of your lesson.
+>   If you run into trouble when following the instructions linked above,
+>   please post to the lesson-development Slack channel,
+>   create an issue on your lesson repository and mention `@tobyhodges`,
+>   email Toby directly,
+>   or attend one of the Lesson Template Helpdesk sessions.
 {: .challenge}
 
 {% include links.md %}
