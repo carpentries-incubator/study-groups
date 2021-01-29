@@ -1,6 +1,7 @@
 ---
 title: Discussion
 ---
-FIXME
+
+Discussion coming soon...
 
 {% include links.md %}
