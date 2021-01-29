@@ -42,12 +42,12 @@ keypoints:
 > relevant to the development of Carpentries lessons.
 > Two resources central to the program are:
 >
-> - [The Carpentries Curriculum Development Handbook][cdh]
+> - [**The Carpentries Curriculum Development Handbook**][cdh]
 >   - Often abbreviated to CDH, the Curriculum Development Handbook provides
 >   a practical overview of the important steps in lesson development,
 >   focusing on how those steps relate to the processes and infrastructure
 >   of The Carpentries.
-> - [Teaching Tech Together][ttt] by Greg Wilson
+> - [**Teaching Tech Together**][ttt] by Greg Wilson
 >   - A more comprehensive review of good practices in lesson development,
 >   teaching, and community building.
 >
