@@ -72,7 +72,7 @@ keypoints:
 > We estimate it will take ~30-60 minutes to review the episode.
 >
 > Submit your review as an issue or multiple issues on the lesson repository,
-> and add a link or links to the review to the Study Groups shared
+> and add a link or links to the review to the Study Group's shared
 > notetaking document when you are done.
 {: .callout}
 
