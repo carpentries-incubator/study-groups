@@ -51,7 +51,7 @@ keypoints:
 >   See the Episode Trial Run callout below for more details.
 > - Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
 > - If your lesson will use an example dataset, in the Data Set section of your Lesson Design Notes
->   briefly describe whatfeatures and requirements for an ideal dataset.
+>   briefly describe the features and requirements an ideal dataset would have.
 > - Identify at least one appropriate example data set/narrative for your lesson,
 >   and add a link to the data set in the shared notes document.
 > - In the Data Set section of your Lesson Design Notes, briefly summarise:
