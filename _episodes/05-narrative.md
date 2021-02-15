@@ -47,7 +47,7 @@ keypoints:
 >   to assess whether learners have met the objectives for that episode.
 > - Read [CDH Chapter 5: Developing Content][cdh-5].
 > - Read [the Expertise and Instruction episode of The Carpentries Instructor Training curriculum][training-expertise].
-> _ Prepare for next week's homework by reading [the Episode Review callout](06-content#episode-review) from [the next section](06-content).
+> - Prepare for next week's homework by reading [the Episode Review callout](06-content#episode-review) from [the next section](06-content).
 {: .challenge}
 
 {% include links.md %}
