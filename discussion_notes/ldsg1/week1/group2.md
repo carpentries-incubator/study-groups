@@ -31,7 +31,7 @@ Please add your name, preferred pronouns (if any), GitHub username, and (when yo
 
 **Group Facilitator(s)**: Mateusz Kuzak, Aleksandra Nenadic, Toby Hodges
 **Discussion Lead**: Toby Hodges
-**Notetaker**: Aleksandra Nenadis
+**Notetaker**: Aleksandra Nenadic
 
 ## Actions
 - Action on Toby to delete week 8 entry when we have an interval for trial runs and collecting feedback for people's lessons (March 30 for this group)
