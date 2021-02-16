@@ -22,8 +22,6 @@ Please add your name, preferred pronouns (if any), GitHub username, and (when yo
 - James Foster / he/him / jd-foster / https://github.com/carpentries-incubator/julia-data-workflow / [Lesson design notes](https://codimd.carpentries.org/IMY4Cu3ZR6Oabrr87ZV6XQ?edit)
 - Alex Casper Cline / he/him / alexcasper / -
 - Rhonda Jones
--
-(add more lines as needed)
 
 ## Roles
 
@@ -69,17 +67,24 @@ Notetaker: Kate Hertweck & Yuka Takemon
         - Incubator and Lab are relatively new within Carpentries, and responding to needs within community. Former (incubator) is a single place where community members can share community-contributed lessons that are currently in development. Latter (lab) is one of two places lessons can reside within Carpentries system after incubator. This happens when they are stable and fully developed, and available for other members to use confidently. The other option is for an incubator lesson to move to a lesson program (Software Carpentry, Data Carpentry, Library Carpentry); this is determined by the curriculum advisory committees for the relevant lesson program. There is also a lesson review process (associated with JOSE, Journal for Open Source Education). Following this study group, there will be a series of discussion calls (and tool-ups) related to lesson development, including accessibility and sharing of lesson materials. Also possible connections with mentoring program.
         - This group of participants will also be badged in AMY (the Carpentries participant database, including instructor training), indicating badged individuals have some level of competence/expertise/experience.
 
+
      - Is there anything out of scope as a Carpentries lesson?
          - Right now, not really! Carpentries has a mission of supporting data and computing skills for researchers and librarians, but lessons for the incubator haven't been explicitly limited. Eventually we may have expectations associated with types of lessons present in the Carpentries Lab.
          - Proprietary software may be something that doesn't really fit the Carpentries community and may be logistically difficult to implement as a Carpentry style lesson.
+
+
     - What does it take for a lesson to be "finished"?
         - There's a section of the curriculum development handbook that describes the lesson lifecycle that describes various stages of completion and robustness of lessons.
+
+
     - What does it look like to contribute to existing lessons?
         - There are labels included in issues for lesson repositories indicating when assistance is wanted for development. Learn more here: https://carpentries.org/help-wanted-issues/
         - This particular study group is focused on developing a new lesson, applying principles of reverse instructional design. It's a bit of a different process to build from an existing lesson, but still doable if you've found something about which you are very passionate.
 
 5. What are some of the advantages of developing an open source lesson? What are some of the disadvantages?
+    - (No time to cover question this week)
 6. Which of the seven principles of learning, defined by Ambrose et al. and summarised in CDH Chapter 1, are particularly relevant to The Carpentries lesson design and development? Are there any that you think are less relevant?
+    - (No time to cover question this week)
     - Students’ prior knowledge can help or hinder learning
     - How students organize knowledge influences how they learn and apply what they know
     - Students’ motivation determines, directs, and sustains what they do to learn
@@ -96,10 +101,9 @@ Notetaker: Kate Hertweck & Yuka Takemon
 8. **Weekly "Sticky Note" feedback**: please give us your feedback about this week by [filling out this two-question form][sticky-notes-link]
 
 ## Resources
+
 Add any relevant resources you found/discussed this week to the list below.
 
 - [The CodiMD Features example page](https://codimd.carpentries.org/features)
--
--
 
 [sticky-notes-link]: https://forms.gle/Jtkrdt42WRhoqPAdA
