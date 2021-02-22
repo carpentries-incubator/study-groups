@@ -16,7 +16,7 @@ This document can be used for note-taking and resource sharing during Study Grou
 Please add your name, preferred pronouns (if any), GitHub username, and (when you have it) a link to your lesson repository below. See first line for an example.
 
 - Toby Hodges / he/him / tobyhodges / https://github.com/carpentries-incubator/jekyll-pages-novice
-- Annajiat Ailm Rasel / he/him / annajiat / https://github.com/carpentries-incubator/java-novice-inflammation
+- Annajiat Alim Rasel / he/him / annajiat / https://github.com/carpentries-incubator/java-novice-inflammation
 - Graeme Grimes / he/him ggrimes / https://github.com/carpentries-incubator/workflows-nextflow
 - Jannetta Steyn / he/her jsteyn / 
 - Alessio Sclocco / he, him / isazi / https://github.com/carpentries-incubator/lesson-gpu-programming
