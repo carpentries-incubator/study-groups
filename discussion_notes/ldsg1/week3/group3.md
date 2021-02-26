@@ -123,6 +123,6 @@ Add any relevant resources you found/discussed this week to the list below.
 - A breakdown of a lesson repository: https://carpentries-incubator.github.io/jekyll-pages-novice/repo_contents/index.html
 - Incubator lesson tags: https://docs.google.com/spreadsheets/d/1KkmBtCu4PaNb5nzJAD82UHcfHQlaPY84qPVxw8WO8es/edit#gid=1895634731
 - [GitPod](https://www.gitpod.io/about/)
-    - see an example repo configured with GitPod here: https://github.com/jekyll-pages-novice
+    - see an example repo configured with GitPod here: https://github.com/carpentries-incubator/jekyll-pages-novice
 
 [sticky-notes-link]: https://forms.gle/JkSbZnjw3uXYE5nr9
