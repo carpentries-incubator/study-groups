@@ -37,12 +37,15 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Read the [Working with Learning Objectives section of The Carpentries Instructor Training Curriculum][training-LOs].
-> - Read the [Learning Objectives section of Teaching Tech Together][ttt-LOs].
-> - Read the [Concept Maps][ttt-maps] and [Seven Plus or Minus Two][ttt-load] sections of Teaching Tech Together.
-> - In your Lesson Design Notes, write 2-5 learning objectives for your lesson.
-> - Create at least one episode file in your lesson repository and add 2-4 learning objectives in the `objectives` field for that episode.
-> - [Set up your computer to build lesson pages locally](https://carpentries.github.io/lesson-example/setup.html#setup-for-local-rendering-of-the-lessons-optional).
+> _Note for groups of participants collaborating on a single lesson:_ 
+> _**ALL**: a task to be done by all collaborators on a lesson; **ONE**: a task to be done by only one collaborator per lesson, ideally after discussion with their collaborators._
+> 
+> - (ALL) Read the [Working with Learning Objectives section of The Carpentries Instructor Training Curriculum][training-LOs].
+> - (ALL) Read the [Learning Objectives section of Teaching Tech Together][ttt-LOs].
+> - (ALL) Read the [Concept Maps][ttt-maps] and [Seven Plus or Minus Two][ttt-load] sections of Teaching Tech Together.
+> - (ALL) In your Lesson Design Notes, write 2-5 learning objectives for your lesson.
+> - (ALL) Create at least one episode file in your lesson repository and add 2-4 learning objectives in the `objectives` field for that episode.
+> - (ALL, **optional but recommended**) [Set up your computer to build lesson pages locally](https://carpentries.github.io/lesson-example/setup.html#setup-for-local-rendering-of-the-lessons-optional).
 >   - Note: setting up a local installation of Jekyll is often not straightforward,
 >   but is important to ensure you can make good progress with
 >   the development of your lesson.
