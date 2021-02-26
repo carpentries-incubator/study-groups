@@ -65,8 +65,11 @@ keypoints:
 > Between sessions 7 and 8 of the Study Groups program,
 > every lesson developer will teach one of the episodes they have been developing.
 > You should choose that episode now.
+> Where a lesson has multiple collaborators participating in the program,
+> each participant should prepare to teach an episode,
+> ideally in the same event as the other trial runs for that lesson.
 > Given that you will be teaching it in three or four weeks' time,
-> you may want to focus on it for the remainder of the Study Groups program.
+> you may want to focus on your chosen episode for the remainder of the Study Groups program.
 >
 > You can choose the format and audience for this trial run. It could:
 >
