@@ -70,6 +70,7 @@ keypoints:
 > ideally in the same event as the other trial runs for that lesson.
 > Given that you will be teaching it in three or four weeks' time,
 > you may want to focus on your chosen episode for the remainder of the Study Groups program.
+> These trial run sessions are expected to take no more than **60 minutes per episode**.
 >
 > You can choose the format and audience for this trial run. It could:
 >
