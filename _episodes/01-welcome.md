@@ -53,17 +53,24 @@ giving all participants an opportunity to tell the others attending:
 
 > ## Homework Tasks
 >
-> - Work with the [Curriculum Community Developer][ccd] to ensure
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+> 
+> - (ONE, the person who opened the lesson proposal issue - see previous page)
+>   Work with the [Curriculum Community Developer][ccd] to ensure
 >   your lesson repository is created in [The Carpentries Incubator][incubator].
-> - Read [Chapter 3: Deciding what to teach][cdh-3] of
+> - (ALL) Read [Chapter 3: Deciding what to teach][cdh-3] of
 >   the Curriculum Development Handbook.
-> - Make a copy of the [Lesson Design Notes Template][ldn-template-codimd]
+> - (ONE, share the IRL with your collaborators)
+>   Make a copy of the [Lesson Design Notes Template][ldn-template-codimd]
 >   in your preferred format.
 >   You can use this page to record important decisions made about the design of
 >   your lesson during and after the Study Groups Program.
-> - Add a link to your Lesson Design Notes to the Study Group's
+> - (ONE) Add a link to your Lesson Design Notes to the Study Group's
 >   shared notes document.
-> - Write at least one learner profile for your lesson
+> - (ALL) Write at least one learner profile for your lesson
 >   and add it to your Lesson Design Notes,
 >   making sure your profile(s) answer the questions listed in the chapter.
 {: .challenge}

@@ -118,13 +118,18 @@ and help group participants with the lesson development process.
 
 > ## Homework Tasks
 >
-> - Make sure you have proposed your lesson to [The Carpentries Incubator][incubator]
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
+> - (ONE) Make sure you have proposed your lesson to [The Carpentries Incubator][incubator]
 >   by opening an issue on [the Proposals repository][incubator-proposals-submission].
 >   - Answer the questions in the issue template to submit your proposal.
-> - Read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which applies to all interactions throughout the duration of the Study Groups program.
-> - Read [CDH Chapter 1: Guiding Principles][cdh-1]
+> - (ALL) Read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which applies to all interactions throughout the duration of the Study Groups program.
+> - (ALL) Read [CDH Chapter 1: Guiding Principles][cdh-1]
 >   and [CDH Chapter 2: Our Curriculum Structure][cdh-2].
-> - Read [Greg Wilson's Ten Rules][ttt-10-rules] from Teaching Tech Together.
+> - (ALL) Read [Greg Wilson's Ten Rules][ttt-10-rules] from Teaching Tech Together.
 >
 {: .challenge}
 

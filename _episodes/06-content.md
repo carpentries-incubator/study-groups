@@ -39,11 +39,16 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Complete (at least) the episode you plan to teach in your trial run,
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
+> - (ALL) Complete (at least) the episode you plan to teach in your trial run,
 >   and request review when it is ready.
-> - (If you have time this week) Complete a review of the episode you were assigned.
+> - (ALL, if you have time this week) Complete a review of the episode you were assigned.
 >   See the callout below for more details about how you should approach the review.
-> - In preparation for your trial run of an episode,
+> - (ALL) In preparation for your Trial Run of an episode,
 >   read [the two Carpentries Instructor Training bonus modules][training-bonus]
 >   on online training:
 >   - [Know Your Tools][training-bonus-tools]

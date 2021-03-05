@@ -37,16 +37,21 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Read [the Technological Introductions chapter of the CDH][cdh-8]
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
+> - (ALL) Read [the Technological Introductions chapter of the CDH][cdh-8]
 >   and follow the steps to set up your repository as described in
 >   the [template README file][incubator-template-readme].
-> - Read [section A.2 of CDH Appendix A: The Carpentries Incubator][cdh-a1],
+> - (ONE) Read [section A.2 of CDH Appendix A: The Carpentries Incubator][cdh-a1],
 >   and add topics to your lesson repository.
 >   (If you cannot add the complete set of topic tags yet, do not worry:
 >   you will be able to add more and remove topics whenever you like.)
-> - Note down any questions you have about the lesson template and,
+> - (ALL) Note down any questions you have about the lesson template and,
 >   if you got stuck, how far you had progressed with the setup beforehand.
-> - Add a link to your lesson repository to the Study Group's shared notes document.
+> - (ALL) Add a link to your lesson repository to the Study Group's shared notes document.
 {: .challenge}
 
 {% include links.md %}

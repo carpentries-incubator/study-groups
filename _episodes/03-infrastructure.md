@@ -38,8 +38,10 @@ keypoints:
 > ## Homework Tasks
 >
 > _Note for groups of participants collaborating on a single lesson:_ 
-> _**ALL**: a task to be done by all collaborators on a lesson; **ONE**: a task to be done by only one collaborator per lesson, ideally after discussion with their collaborators._
-> 
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
 > - (ALL) Read the [Working with Learning Objectives section of The Carpentries Instructor Training Curriculum][training-LOs].
 > - (ALL) Read the [Learning Objectives section of Teaching Tech Together][ttt-LOs].
 > - (ALL) Read the [Concept Maps][ttt-maps] and [Seven Plus or Minus Two][ttt-load] sections of Teaching Tech Together.

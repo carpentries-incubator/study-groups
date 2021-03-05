@@ -37,17 +37,22 @@ keypoints:
 
 > ## Homework Tasks
 >
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
 > **Note:** there is a break in the program next week, to allow more time
 > for these trial runs to be completed.
 >
-> - If you have not already done so, 
+> - (ALL) If you have not already done so,
 >   complete a review of the episode you were assigned.
-> - Coordinate with the helper(s) you recruited for your trial run,
+> - (ALL) Coordinate with the helper(s) you recruited for your Trial Run,
 >   to ensure they are prepared to support you in teaching and collecting feedback.
-> - In a scheduled "trial run," teach (at least) one episode of your lesson.
-> - Open issues on your lesson repository to record the required changes to your lesson that were identified during/after the trial run.
-> - Before the Study Group next meets,
->   reflect on the discussion prompts for the next session.
+> - (ALL) In a scheduled "Trial Run," teach (at least) one episode of your lesson.
+> - (ALL) Open issues on your lesson repository to record the required changes to your lesson that were identified during/after the trial run.
+> - (ALL) Before the Study Group next meets, reflect on
+>   [the discussion prompts for the next session]({{page.root}}/09-reflecting/).
 {: .challenge}
 
 {% include links.md %}

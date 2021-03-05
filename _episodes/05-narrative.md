@@ -41,13 +41,18 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Recruit one helper for the trial run you scheduled last week.
-> - Read the [Exercise Types chapter of Teaching Tech Together][ttt-exercises].
-> - Add exercises _of at least three different types_ to your chosen episode page,
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;
+> **ONE**: a task to be done by only one collaborator per lesson,
+> ideally after discussion with their collaborators._
+>
+> - (ALL) Recruit one helper for the Trial Run you scheduled last week.
+> - (ALL) Read the [Exercise Types chapter of Teaching Tech Together][ttt-exercises].
+> - (ALL) Add exercises _of at least three different types_ to your chosen episode page,
 >   to assess whether learners have met the objectives for that episode.
-> - Read [CDH Chapter 5: Developing Content][cdh-5].
-> - Read [the Expertise and Instruction episode of The Carpentries Instructor Training curriculum][training-expertise].
-> - Prepare for next week's homework by reading [the Episode Review callout](06-content#episode-review) from [the next section](06-content).
+> - (ALL) Read [CDH Chapter 5: Developing Content][cdh-5].
+> - (ALL) Read [the Expertise and Instruction episode of The Carpentries Instructor Training curriculum][training-expertise].
+> - (ALL) Prepare for next week's homework by reading [the Episode Review callout](06-content#episode-review) from [the next section](06-content).
 {: .challenge}
 
 {% include links.md %}

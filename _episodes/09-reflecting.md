@@ -45,16 +45,21 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Create more issues on your lesson repository,
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
+> - (ALL) Create more issues on your lesson repository,
 >   as a way to keep track of outstanding tasks and improvements that could be made.
-> - Read [Section A.3 (Using GitHub Issue Labels) of CDH Appendix A: The Carpentries Incubator][cdh-a1-a3].
-> - Add `help-wanted` and `good-first-issue` labels to the issues on your repository
->   as appropriate.
-> - (Optionally) [ask the Curriculum Community Developer][ccd] to include
+> - (ALL) Read [Section A.3 (Using GitHub Issue Labels) of CDH Appendix A: The Carpentries Incubator][cdh-a1-a3].
+> - (ONE) Add `help-wanted` and `good-first-issue` labels
+>   to the issues on your repository as appropriate.
+> - (Optionally, ONE) [ask the Curriculum Community Developer][ccd] to include
 >   your lesson in the listing on the [Help Wanted page][help-wanted]
 >   of The Carpentries website.
-> - Read [Chapter 6: Community Development Roles][cdh-6] and [Chapter 7: Lesson Life Cycle][cdh-7] of the Curriculum Development Handbook.
-> - Open at least one Pull Request to fix an issue on another lesson repository in
+> - (ALL) Read [Chapter 6: Community Development Roles][cdh-6] and [Chapter 7: Lesson Life Cycle][cdh-7] of the Curriculum Development Handbook.
+> - (ALL) Open at least one Pull Request to fix an issue on another lesson repository in
 >   [The Carpentries Incubator][incubator].
 {: .challenge}
 

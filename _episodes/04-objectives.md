@@ -43,18 +43,23 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Create placeholder files for the other episodes in your lesson.
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+> 
+> - (ONE) Create placeholder files for the other episodes in your lesson.
 >   Optionally, add learning objectives to these episode files too.
-> - Schedule an opportunity to teach at least one episode of your new lesson.
+> - (ALL) Schedule an opportunity to teach at least one episode of your new lesson.
 >   This trial run should take place between sessions 7 and 8
 >   (26 March 2021 - 9 April 2021).
 >   See the Episode Trial Run callout below for more details.
-> - Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
-> - If your lesson will use an example dataset, in the Data Set section of your Lesson Design Notes
+> - (ALL) Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
+> - (ONE) If your lesson will use an example dataset, in the Data Set section of your Lesson Design Notes
 >   briefly describe the features and requirements an ideal dataset would have.
-> - Identify at least one appropriate example data set/narrative for your lesson,
+> - (ALL) Identify at least one appropriate example data set/narrative for your lesson,
 >   and add a link to the data set in the shared notes document.
-> - In the Data Set section of your Lesson Design Notes, briefly summarise:
+> - (ALL) In the Data Set section of your Lesson Design Notes, briefly summarise:
 >   - why you chose these datasets/examples,
 >   - what advantages they have as a tool for learning,
 >   - and what disadvantages/difficulties/complexities they would introduce.

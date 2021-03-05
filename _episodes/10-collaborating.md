@@ -39,8 +39,13 @@ keypoints:
 
 > ## Homework Tasks
 >
-> - Complete the Lesson Development Study Groups feeback survey.
-> - (Optionally) write a post for The Carpentries blog,
+> _Note for groups of participants collaborating on a single lesson:_
+> _**ALL**: a task to be done by all collaborators on a lesson;_
+> _**ONE**: a task to be done by only one participant per lesson,_
+> _ideally after discussion with their collaborators._
+>
+> - (ALL) Complete the Lesson Development Study Groups feeback survey.
+> - (Optionally, ALL) write a post for The Carpentries blog,
 >   reflecting on your experience in this Study Groups program.
 {: .challenge}
 
