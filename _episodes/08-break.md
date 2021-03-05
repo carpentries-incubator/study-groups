@@ -5,5 +5,5 @@ break: 0
 start: true
 ---
 
-Remember to read and reflect on [the discussion prompts](08-reflecting)
+Remember to read and reflect on [the discussion prompts]({{page.root}}/08-reflecting/)
 before the next session.

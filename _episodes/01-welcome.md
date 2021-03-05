@@ -21,7 +21,7 @@ keypoints:
 > ## Reading List
 >
 > - [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
-> - The [Introduction page of this site](../00-introduction/).
+> - The [Introduction page of this site]({{page.root}}/00-introduction/).
 > - [CDH Chapter 1: Guiding Principles][cdh-1].
 > - [CDH Chapter 2: Our Curriculum Structure][cdh-2].
 > - [Greg Wilson's Ten Rules][ttt-10-rules] from Teaching Tech Together.
@@ -57,7 +57,7 @@ giving all participants an opportunity to tell the others attending:
 > _**ALL**: a task to be done by all collaborators on a lesson;_
 > _**ONE**: a task to be done by only one participant per lesson,_
 > _ideally after discussion with their collaborators._
-> 
+>
 > - (ONE, the person who opened the lesson proposal issue - see previous page)
 >   Work with the [Curriculum Community Developer][ccd] to ensure
 >   your lesson repository is created in [The Carpentries Incubator][incubator].

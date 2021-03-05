@@ -52,7 +52,7 @@ keypoints:
 >   teaching, and community building.
 >
 > Other resources will be linked throughout the site,
-> and [the Further Reading page](../further_reading/) lists some recommended resources
+> and [the Further Reading page]({{page.root}}/further_reading/) lists some recommended resources
 > for those who wish to explore beyond the program's required reading.
 >
 {: .testimonial }

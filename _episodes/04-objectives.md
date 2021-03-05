@@ -47,7 +47,7 @@ keypoints:
 > _**ALL**: a task to be done by all collaborators on a lesson;_
 > _**ONE**: a task to be done by only one participant per lesson,_
 > _ideally after discussion with their collaborators._
-> 
+>
 > - (ONE) Create placeholder files for the other episodes in your lesson.
 >   Optionally, add learning objectives to these episode files too.
 > - (ALL) Schedule an opportunity to teach at least one episode of your new lesson.
@@ -93,7 +93,7 @@ keypoints:
 > especially if your chosen episode does not appear early in the lesson
 > (as audience members will not have benefited from learning the previous episodes first).
 > In this case, try to ensure that members of the audience are briefed
-> on what kind of feedback to give ([see session 7 for more information]({{page.root}}/07-preparing/index.html)).
+> on what kind of feedback to give ([see session 7 for more information]({{page.root}}/07-preparing/)).
 >
 > The [Curriculum Community Developer][ccd] can provide support for these sessions.
 > For example, by providing access to an account with a paid Zoom license for the trial run,
