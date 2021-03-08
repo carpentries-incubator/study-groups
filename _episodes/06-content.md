@@ -1,5 +1,5 @@
 ---
-title: "Writing Explanatory Content"
+title: "6. Writing Explanatory Content"
 teaching: 60
 exercises: 0
 start: true

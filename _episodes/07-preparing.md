@@ -1,5 +1,5 @@
 ---
-title: "Preparing to Teach"
+title: "7. Preparing to Teach"
 teaching: 60
 exercises: 0
 start: true

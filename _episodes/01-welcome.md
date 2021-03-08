@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "1. Welcome"
 teaching: 60
 exercises: 0
 start: true
