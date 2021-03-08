@@ -1,5 +1,5 @@
 ---
-title: "5. Data Sets and Authentic Tasks"
+title: "Data Sets and Authentic Tasks"
 teaching: 60
 exercises: 0
 start: true

@@ -1,5 +1,5 @@
 ---
-title: "9. Collaborative Lesson Development"
+title: "Collaborative Lesson Development"
 teaching: 60
 exercises: 0
 start: true

@@ -1,5 +1,5 @@
 ---
-title: "8. Trial Run Debrief"
+title: "Trial Run Debrief"
 teaching: 60
 exercises: 0
 start: true

@@ -1,5 +1,5 @@
 ---
-title: "2. Identifying the Audience"
+title: "Identifying the Audience"
 teaching: 60
 exercises: 0
 start: true

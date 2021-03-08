@@ -1,5 +1,5 @@
 ---
-title: "4. Defining Objectives"
+title: "Defining Objectives"
 teaching: 60
 exercises: 0
 start: true
