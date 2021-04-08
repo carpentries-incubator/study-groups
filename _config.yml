@@ -33,6 +33,13 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 email: "tobyhodges@carpentries.org"
 
+# Round info
+# break_date_range (string) provides the range of dates during which
+# Trial Runs should take place.
+# E.g. 26 March - 9 April 2021.
+# Leaving this blank will omit this information from the pages.
+break_date_range: "26 March 2021 - 9 April 2021"
+
 # Sites.
 amy_site: "https://amy.carpentries.org/"
 carpentries_github: "https://github.com/carpentries"
