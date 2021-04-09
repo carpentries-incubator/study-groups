@@ -2,7 +2,6 @@
 title: "Trial Run Debrief"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "What did I learn about my lesson?"
 - "What will I do differently next time I teach?"

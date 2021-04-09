@@ -2,7 +2,6 @@
 title: "Collaborative Lesson Development"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "What are the advantages of open, collaborative lesson development?"
 - "How can I encourage contributions to my lesson?"

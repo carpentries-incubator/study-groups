@@ -2,7 +2,6 @@
 title: "Welcome"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "What can I expect from this program?"
 - "What is expected of me during the program?"

@@ -2,7 +2,6 @@
 title: "Identifying the Audience"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "How do we identify the audience of a lesson?"
 - "What are the benefits of doing this early in the development process?"
