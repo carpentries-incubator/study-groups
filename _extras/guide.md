@@ -17,4 +17,9 @@ Some possible icebreakers include:
 - What is one nice thing that happened to you this week? Or what are you looking forward to about next week?
 - See the [icebreakers in the Instructor Training curriculum](https://carpentries.github.io/instructor-training/icebreakers/index.html) for more options.
 
+## Ending Each Session
+
+At the end of each session, a group facilitator should remind the particpants
+to provide minute card feedback.
+
 {% include links.md %}
