@@ -15,6 +15,6 @@ Some possible icebreakers include:
 - If you could learn a new skill/domain instantly "matrix-style", what would you choose and why?
 - If you could have the power of teleportation right now, where would you go and why?
 - What is one nice thing that happened to you this week? Or what are you looking forward to about next week?
-- See the [icebreakers in the Instructor Training curriculum](https://carpentries.github.io/instructor-training/icebreakers/index.html) for more optins.
+- See the [icebreakers in the Instructor Training curriculum](https://carpentries.github.io/instructor-training/icebreakers/index.html) for more options.
 
 {% include links.md %}
