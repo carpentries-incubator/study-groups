@@ -3,9 +3,14 @@ title: "Group Facilitator Notes"
 ---
 
 
-## Icebreakers
+## Beginning Each Session
 
-A group facilitator should also lead an ice breaker for each session.
+One of the group facilitatrs should introduce each session by welcoming participants, reminding them
+of the Code of Conduct, and doing an icebreaker (more below.
+
+### Icebreakers
+
+A group facilitator should lead an ice breaker for each session.
 This gives the participants a chance to get more comfortable with one another and talking in the discussion session.
 Ideally, the icebreaker shouldn't take more than 10 min.
 
