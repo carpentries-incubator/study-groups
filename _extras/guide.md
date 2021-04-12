@@ -7,7 +7,7 @@ title: "Group Facilitator Notes"
 
 A group facilitator should also lead an ice breaker for each session.
 This gives the participants a chance to get more comfortable with one another and talking in the discussion session.
-Ideally, the icebreak shouldn't take more than 10 min.
+Ideally, the icebreaker shouldn't take more than 10 min.
 
 Some possible icebreakers include:
 - What is your favorite icebreaker question? (this is quite meta, maybe better left for later in the round...)
