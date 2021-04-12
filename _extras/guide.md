@@ -2,6 +2,12 @@
 title: "Group Facilitator Notes"
 ---
 
+## Before the Session
+
+Before the session, teh group facilitator should remind the Discussion Lead to 
+leave time (5-10 min) for discussion of the homework for next session at the end
+of the call.
+
 
 ## Icebreakers
 
