@@ -5,7 +5,7 @@ title: "Group Facilitator Notes"
 
 ## Beginning Each Session
 
-One of the group facilitatrs should introduce each session by welcoming participants, reminding them
+One of the group facilitators should introduce each session by welcoming participants, reminding them
 of the Code of Conduct, and doing an icebreaker (more below.
 
 ### Icebreakers
