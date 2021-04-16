@@ -19,7 +19,7 @@ Some possible icebreakers include:
 
 ## Ending Each Session
 
-At the end of each session, a group facilitator should remind the particpants
+At the end of each session, a group facilitator should remind the participants
 to provide minute card feedback.
 
 {% include links.md %}
