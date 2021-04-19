@@ -46,6 +46,9 @@ keypoints:
 > ideally after discussion with their collaborators._
 >
 > - (ALL) Recruit one helper for the Trial Run you scheduled last week.
+>   {% unless site.break_date_range == "" %}(Reminder:
+>   the Trial Runs should take place between
+>   {{ site.break_date_range }}.){% endunless %}
 > - (ALL) Read the [Exercise Types chapter of Teaching Tech Together][ttt-exercises].
 > - (ALL) Add exercises _of at least three different types_ to your chosen episode page,
 >   to assess whether learners have met the objectives for that episode.

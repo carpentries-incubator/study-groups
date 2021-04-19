@@ -72,7 +72,8 @@ Where you think this may be the case,
 please prioritise the reading over other homework tasks,
 so you can follow and contribute to the group discussion.
 
-\*there will be a two-week interval between sessions 7 and 8, to allow time for participants to complete a trial run
+\*there will be a two-week interval between sessions 7 and 8,{% unless site.break_date_range == "" %}{{ site.break_date_range }},{% endunless %}
+to allow time for participants to complete a trial run
 teaching one of the episodes from their lesson.
 
 ## Roles

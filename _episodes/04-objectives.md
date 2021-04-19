@@ -50,8 +50,7 @@ keypoints:
 > - (ONE) Create placeholder files for the other episodes in your lesson.
 >   Optionally, add learning objectives to these episode files too.
 > - (ALL) Schedule an opportunity to teach at least one episode of your new lesson.
->   This trial run should take place between sessions 7 and 8
->   (26 March 2021 - 9 April 2021).
+>   This trial run should take place between sessions 7 and 8{% unless site.break_date_range == "" %}({{ site.break_date_range }}){% endunless %}.
 >   See the Episode Trial Run callout below for more details.
 > - (ALL) Read [Chapter 4: Designing Challenges][cdh-4] of the [Curriculum Development Handbook][cdh].
 > - (ONE) If your lesson will use an example dataset, in the Data Set section of your Lesson Design Notes
