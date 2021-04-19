@@ -2,7 +2,6 @@
 title: "Preparing to Teach"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "How should I prepare to teach my lesson for the first time?"
 - "What feedback should I collect when teaching a new lesson?"

@@ -2,7 +2,6 @@
 title: "Lesson Infrastructure"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "What are the tools required to develop lessons in The Carpentries?"
 - "What is the structure of a Carpentries lesson repository?"
@@ -37,7 +36,7 @@ keypoints:
 
 > ## Homework Tasks
 >
-> _Note for groups of participants collaborating on a single lesson:_ 
+> _Note for groups of participants collaborating on a single lesson:_
 > _**ALL**: a task to be done by all collaborators on a lesson;_
 > _**ONE**: a task to be done by only one participant per lesson,_
 > _ideally after discussion with their collaborators._

@@ -2,7 +2,6 @@
 title: "Writing Explanatory Content"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "What is a good approach to writing examples?"
 - "What components can I combine to create a lesson?"

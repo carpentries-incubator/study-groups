@@ -2,7 +2,6 @@
 title: "Defining Objectives"
 teaching: 60
 exercises: 0
-start: true
 questions:
 - "How do we define the objectives of a lesson?"
 - "What are the benefits of doing this before writing the content?"
