@@ -25,7 +25,7 @@ The overall goal of the program is that every lesson will have a realistic and c
 > * **explain** the pedagogical value of authentic tasks
 > * **create** exercises for formative assessment in an appropriate format
 > * **summarise** how considerations of cognitive load can influence the pacing, length and organisation of a lesson
-> * **create** accessible and usable lesson repositories using best practices, readily available for collaboration
+> * **maintain** accessible and usable lesson repositories using best practices, readily available for collaboration
 > * **update** and improve lesson material guided by feedback and reflection from teaching
 > * **review** and provide constructive feedback on lessons
 {: .objectives }
