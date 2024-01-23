@@ -65,9 +65,9 @@ jobs:
         id: styles-ref
         run: |
           if [[ -n "${{ github.event.pull_request.number }}" ]]; then
-            echo "ref=refs/pull/${{ github.event.pull_request.number }}/head" >> $GITHUB_OUTPUT
+            echo "ref=refs/pull/${{ github.event.pull_request.number }}/head" >> "$GITHUB_OUTPUT"
           else
-            echo "ref=gh-pages" >> $GITHUB_OUTPUT
+            echo "ref=gh-pages" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Sync lesson with carpentries/styles
@@ -85,7 +85,7 @@ jobs:
         id: check-rmd
         working-directory: lesson
         run: |
-          echo "count=$(shopt -s nullglob; files=($(find . -iname '*.Rmd')); echo ${#files[@]})" >> $GITHUB_OUTPUT
+          echo "count=$(shopt -s nullglob; files=($(find . -iname '*.Rmd')); echo ${#files[@]})" >> "$GITHUB_OUTPUT"
 
       - name: Set up R
         if: steps.check-rmd.outputs.count != 0
