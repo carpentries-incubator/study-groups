@@ -1,3 +1,5 @@
+**The Lesson Development Study Groups program was replaced by [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/).**
+
 # Carpentries Lesson Development Study Groups
 
 This repository contains information about The Carpentries Lesson Development Study Groups program.
